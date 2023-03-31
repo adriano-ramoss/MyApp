@@ -16,21 +16,16 @@
         android:icon="@drawable/baseline_share"
         android:title="Compartilhar"
         app:showAsAction="ifRoom" />
+
+
     <item
         android:id="@+id/mSalvar"
         android:icon="@drawable/baseline_save"
         android:title="Salvar"
         app:showAsAction="ifRoom" />
-
     <item
         android:id="@+id/mSair"
         android:icon="@drawable/baseline_exit"
         android:title="Sair"
-        app:showAsAction="ifRoom" />
-
-    <item
-        android:id="@+id/mMenu"
-        android:icon="@drawable/baseline_menu"
-        android:title="Menu"
         app:showAsAction="ifRoom" />
 </menu>
