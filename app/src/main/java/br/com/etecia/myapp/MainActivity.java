@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
                 switch (item.getItemId()) {
                     case R.id.mFavorito:
-                        Toast.makeText(getApplicationContext(), "Cliquei No Menu hamburguer", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "Cliquei No Favorito", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.mBuscar:
                         Toast.makeText(getApplicationContext(), "Cliquei No Buscar", Toast.LENGTH_SHORT).show();
